@@ -1,0 +1,24 @@
+{
+  "name": "gulp-reference-cdn",
+  "version": "1.0.0",
+  "description": "Replaces all references of assets with new cdn directory name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwbrown/gulp-reference-cdn.git"
+  },
+  "author": "Philip Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pwbrown/gulp-reference-cdn/issues"
+  },
+  "homepage": "https://github.com/pwbrown/gulp-reference-cdn#readme",
+  "dependencies": {
+    "glob": "^7.0.6",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
